@@ -57,18 +57,18 @@ softSkills:
   color: yellow
 
 - name: Organization
-  percentage: 90
+  percentage: 85
   color: orange
 
 - name: Problem Solving
-  percentage: 90
+  percentage: 80
   color: green
 
 - name: Leadership
-  percentage: 85
+  percentage: 75
   color: pink
   
 - name: Team Work
-  percentage: 85
+  percentage: 70
   color: sky
 
