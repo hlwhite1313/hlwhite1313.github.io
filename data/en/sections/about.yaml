@@ -43,15 +43,23 @@ socialLinks:
   icon: "fab fa-github"
   url: "https://github.com/hlwhite1313"
 
-  
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-- name: Leadership
-  percentage: 85
+- name: Interpersonal Skills
+  percentage: 95
   color: blue
-- name: Team Work
+- name: Communication
   percentage: 90
   color: yellow
+- name: Leadership
+  percentage: 85
+  color: red
+- name: Team Work
+  percentage: 90
+  color: green
+- name: Organization
+  percentage: 90
+  color: orange
