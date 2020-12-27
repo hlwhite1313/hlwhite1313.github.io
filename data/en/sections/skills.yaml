@@ -11,19 +11,11 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: C++ Programming Language
+- name: Programming Languages
   icon: "/images/sections/skills/kubernetes.png"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+  summary: "I am experienced in Python, C++ and Java Programming Languages. I was a teaching assistant for a 
+            Python course in Fall 2020, and have done several large projects in each of the languages listed."
   url: "https://kubernetes.io/"
-
-- name: Python Programming Language
-  icon: "/images/sections/skills/go.png"
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
-
-- name: Java Programming Language
-  icon: "/images/sections/skills/cloud.png"
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
 
 - name: Github 
   icon: "/images/sections/skills/cloud.png"
