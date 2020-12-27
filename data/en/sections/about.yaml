@@ -51,15 +51,19 @@ softSkills:
 - name: 'Interpersonal Skills'
   percentage: 95
   color: blue
+
 - name: Communication
   percentage: 90
   color: yellow
+
 - name: Leadership
   percentage: 85
   color: red
+  
 - name: Team Work
   percentage: 90
   color: green
+
 - name: Organization
   percentage: 90
   color: orange
