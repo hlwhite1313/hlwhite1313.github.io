@@ -27,9 +27,12 @@ summary: "I am a fourth generation student at Colorado School of Mines. I will b
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
-- name: Github
-  icon: "fab fa-github"
-  url: "https://github.com/hlwhite1313"
+
+
+  socialLinks:
+- name: Linkedin
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/heather-white-82270a19b/"
 
 - name: Instagram
   icon: "fab fa-instagram"
@@ -38,6 +41,10 @@ socialLinks:
 - name: Facebook
   icon: "fab fa-facebook"
   url: "https://www.facebook.com/heather.white.54966834/"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/hlwhite1313"
 
   
 
