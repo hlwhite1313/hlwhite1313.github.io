@@ -17,23 +17,25 @@ skills:
             Python course in Fall 2020, and have done several large projects in each of the languages listed."
   url: "https://kubernetes.io/"
 
-- name: PostgreSQL Database
+- name: Operating System Shells
   icon: "/images/sections/skills/cloud.png"
-  summary: "I have experience with the PostgreSQL Open Source Database, as well as general PostgreSQL query
-            procol."
+  summary: "I have academic experience with Git Bash and Linux Shells, as well as personal experience with 
+            the Windows Command Line."
 
 - name: Text Editors
   icon: "/images/sections/skills/cloud.png"
   summary: "I am experienced with CLion, Eclipse and Visual Studio Code text editors."
 
+- name: PostgreSQL Database
+  icon: "/images/sections/skills/cloud.png"
+  summary: "I have experience with the PostgreSQL Open Source Database, as well as general PostgreSQL query
+            procol."
+
 - name: Github 
   icon: "fab fa-github"
   summary: "I have experience with Github, including personal, academic, and professional uses."
 
-- name: Operating System Shells
-  icon: "/images/sections/skills/cloud.png"
-  summary: "I have academic experience with Git Bash and Linux Shells, as well as personal experience with 
-            the Windows Command Line."
+
 
 
 
