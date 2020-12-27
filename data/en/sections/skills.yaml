@@ -18,7 +18,7 @@ skills:
   url: 
 
 - name: Operating System Shells
-  icon: 
+  icon: "/images/sections/skills/opsys.png"
   summary: "I have academic experience with Git Bash and Linux Shells, as well as personal experience with 
             the Windows Command Line."
 
