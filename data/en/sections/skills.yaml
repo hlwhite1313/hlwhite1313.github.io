@@ -23,7 +23,7 @@ skills:
             the Windows Command Line."
 
 - name: Text Editors
-  icon: 
+  icon: "/images/sections/skills/text.png"
   summary: "I am experienced with CLion, Eclipse and Visual Studio Code text editors."
 
 - name: PostgreSQL Database
