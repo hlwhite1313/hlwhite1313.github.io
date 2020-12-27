@@ -58,7 +58,7 @@ softSkills:
 
 - name: Leadership
   percentage: 85
-  color: red
+  color: maroon
   
 - name: Team Work
   percentage: 90
