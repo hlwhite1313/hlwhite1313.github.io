@@ -35,6 +35,12 @@ socialLinks:
   icon: "fab fa-instagram"
   url: "https://www.instagram.com/heatherwhit3/"
 
+  - name: Facebook
+  icon: "fab fa-facebook"
+  url: "https://www.facebook.com/heather.white.54966834/"
+
+  
+
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
