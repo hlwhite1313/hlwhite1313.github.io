@@ -53,22 +53,22 @@ softSkills:
   color: blue
 
 - name: Networking
-  percentage: 60
+  percentage: 95
   color: yellow
 
 - name: Organization
-  percentage: 70
+  percentage: 95
   color: orange
 
 - name: Problem Solving
-  percentage: 80
+  percentage: 95
   color: green
 
 - name: Leadership
-  percentage: 90
+  percentage: 95
   color: pink
   
 - name: Team Work
-  percentage: 100
+  percentage: 95
   color: sky
 
