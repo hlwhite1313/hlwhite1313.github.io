@@ -36,3 +36,8 @@ skills:
 - name: Git Bash Shell
   icon: "/images/sections/skills/cloud.png"
   summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+
+- name: PostgreSQL Database
+  icon: "/images/sections/skills/cloud.png"
+  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+
