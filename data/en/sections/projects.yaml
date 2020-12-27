@@ -33,7 +33,7 @@ projects:
   tags: ["academic", "Clue Game"]
 
 - name: Computing for the Good Website
-  logo: /images/sections/projects/C4G.png
+  logo: /images/sections/projects/C4GIcon.PNG
   role: Developer
   timeline: "Jun 2018 - Present"
   repo: https://github.com/tensorflow/tensorflow
