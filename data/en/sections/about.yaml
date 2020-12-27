@@ -48,11 +48,11 @@ socialLinks:
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-- name: Interpersonal_Skills
+- name: Communication
   percentage: 95
   color: blue
 
-- name: Communication
+- name: Networking
   percentage: 90
   color: yellow
 
