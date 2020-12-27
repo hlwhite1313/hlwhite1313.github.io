@@ -30,10 +30,10 @@ projects:
   summary: This game is based on the traditional Clue board game and was created throughout the software engineering
            course at Mines. The engineering process of this game was based on test driven development and good 
            coding design. In addition, this game was written in Java.
-  tags: ["professional", "kubernetes", "cloud"]
+  tags: ["academic", "Clue Game"]
 
-- name: Tensorflow
-  logo: /images/sections/projects/tensorflow.png
+- name: Computing for the Good Website
+  logo: /images/sections/projects/C4G.png
   role: Developer
   timeline: "Jun 2018 - Present"
   repo: https://github.com/tensorflow/tensorflow
