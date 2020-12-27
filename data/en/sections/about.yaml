@@ -49,8 +49,8 @@ socialLinks:
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
 - name: Communication
-  percentage: 
-  color: blue
+  percentage: 95
+  color: blue 
 
 - name: Networking
   percentage: 95
