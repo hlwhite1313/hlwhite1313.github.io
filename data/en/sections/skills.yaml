@@ -27,7 +27,7 @@ skills:
   summary: "I am experienced with CLion, Eclipse and Visual Studio Code text editors."
 
 - name: PostgreSQL Database
-  icon: 
+  icon: "/images/sections/skills/postgresql.png"
   summary: "I have experience with the PostgreSQL Open Source Database, as well as general PostgreSQL query
             procol."
 
