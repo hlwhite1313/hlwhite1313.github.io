@@ -28,11 +28,11 @@ summary: "I am a fourth generation student at Colorado School of Mines. I will b
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Github
-  icon: "images/about/instaIcon.webp"
+  icon: "fab fa-github"
   url: "https://github.com/hlwhite1313"
 
 - name: Instagram
-  icon: "fab fa-"
+  icon: "images/about/instaIcon.webp"
   url: "https://www.instagram.com/heatherwhit3/"
 
 # your soft skills
