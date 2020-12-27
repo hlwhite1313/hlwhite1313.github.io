@@ -12,7 +12,7 @@ section:
 # Give a summary of you each skill in the summary section.
 skills:
 - name: Programming Languages
-  icon: 
+  icon: "/images/sections/skills/code.png"
   summary: "I am experienced in Python, C++ and Java Programming Languages. I was a teaching assistant for a 
             Python course in Fall 2020, and have done several large projects in each of the languages listed."
   url: 
