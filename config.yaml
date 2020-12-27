@@ -42,6 +42,6 @@ params:
   # The inverted logo will be used in the initial transparent navbar and
   # the main logo will be used in the non-transparent navbar.
   logo:
-    main: /assets/images/HWLogo.jpg
-    inverted: /assets/images/HWLogoTransparent.jpg
-    favicon: /assets/images/HWLogoIcon.png
+    main: images/site/HWLogo.jpg
+    inverted: images/site/HWLogoTransparent.jpg
+    favicon: images/site/HWLogoIcon.png
