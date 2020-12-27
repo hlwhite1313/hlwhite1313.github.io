@@ -62,7 +62,7 @@ softSkills:
 
 - name: Problem Solving
   percentage: 90
-  color: sky
+  color: green
 
 - name: Leadership
   percentage: 85
@@ -70,5 +70,5 @@ softSkills:
   
 - name: Team Work
   percentage: 85
-  color: green
+  color: sky
 
