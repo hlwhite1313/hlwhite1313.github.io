@@ -60,6 +60,10 @@ softSkills:
   percentage: 90
   color: orange
 
+- name: Problem Solving
+  percentage: 90
+  color: orange
+
 - name: Leadership
   percentage: 85
   color: pink
