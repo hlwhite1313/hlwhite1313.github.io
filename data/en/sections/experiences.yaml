@@ -11,32 +11,31 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: Colorado School of Mines - Computer Science Department
+    url: "https://cs.mines.edu/"
+    location: Golden, Colorado
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: 
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Teaching Assistant
+    start: August 2020
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Assisting students in understanding basic computer science concepts and completing coding assignments in Python
+    - Hosting virtual office hours
 
 - company:
-    name: PreExample Co.
-    url: "https://www.preexample.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Colorado School of Mines - Computer Science Department
+    url: "https://cs.mines.edu/"
+    location: Golden, Colorado
+    overview: 
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Intern
+    start: May 2020
+    end: August 2020
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Creating and running several kids summer camps through Mines.
+    - Creating a website for and mentoring high school students in a computing for the good of the community program.
+    - Researching new teaching methods and assisting in course development for a computer science introductory class.
