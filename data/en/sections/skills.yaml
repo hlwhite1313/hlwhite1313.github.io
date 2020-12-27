@@ -32,7 +32,7 @@ skills:
             procol."
 
 - name: Github 
-  icon: "fab fa-github"
+  icon: "githubLogo.png"
   summary: "I have experience with Github, including personal, academic, and professional uses."
 
 - name: Microsoft Office Applications 
