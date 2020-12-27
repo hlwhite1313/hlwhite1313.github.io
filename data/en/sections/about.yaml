@@ -28,8 +28,12 @@ summary: "I am a fourth generation student at Colorado School of Mines. I will b
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
 - name: Github
-  icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  icon: "images/about/instaIcon.webp"
+  url: "https://github.com/hlwhite1313"
+
+- name: Instagram
+  icon: "fab fa-"
+  url: "https://www.instagram.com/heatherwhit3/"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
