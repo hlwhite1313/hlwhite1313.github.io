@@ -32,7 +32,7 @@ socialLinks:
   url: "https://github.com/hlwhite1313"
 
 - name: Instagram
-  icon: "images/about/instaIcon.webp"
+  icon: "fab fa-instagram"
   url: "https://www.instagram.com/heatherwhit3/"
 
 # your soft skills
