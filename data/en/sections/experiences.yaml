@@ -15,7 +15,10 @@ experiences:
     url: "https://cs.mines.edu/"
     location: Golden, Colorado
     # company overview
-    overview: 
+    overview: CS@Mines prepares tomorrow’s leaders to bring the computational power and thinking of computer 
+              science to all fields of engineering and science, as well as business, medicine and entertainment. 
+              According to the Wall Street Journal, Mines was the top-ranked public university for combining 
+              faculty accessibility and research prowess. 
   positions:
   - designation: Teaching Assistant
     start: August 2020
@@ -30,7 +33,10 @@ experiences:
     name: Colorado School of Mines - Computer Science Department
     url: "https://cs.mines.edu/"
     location: Golden, Colorado
-    overview: 
+    overview: CS@Mines prepares tomorrow’s leaders to bring the computational power and thinking of computer 
+              science to all fields of engineering and science, as well as business, medicine and entertainment. 
+              According to the Wall Street Journal, Mines was the top-ranked public university for combining 
+              faculty accessibility and research prowess.
   positions:
   - designation: Intern
     start: May 2020
