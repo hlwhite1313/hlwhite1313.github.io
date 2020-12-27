@@ -35,16 +35,11 @@ projects:
 - name: Computing for the Good Website
   logo: /images/sections/projects/C4GIcon.PNG
   role: Developer
-  timeline: "Jun 2018 - Present"
-  repo: https://github.com/tensorflow/tensorflow
-  #url: ""
-  summary: An Open Source Machine Learning Framework for Everyone.
-  tags: ["professional", "machine-learning","academic"]
+  timeline: "August 2020"
+  #repo: 
+  url: https://cstart.mines.edu/c4g/
+  summary: I created this website as an information source for the high school students participating in the
+           summer 2020 CS@Mines Computing for the Good program, of which I was a team mentor. This site hosted 
+           the program schedule, contacts and final projetcs. 
+  tags: ["professional", "Computing for the Good"]
 
-- name: Toha
-  logo: /images/sections/projects/toha.png
-  role: Owner
-  timeline: "Jun 2019 - Present"
-  repo: https://github.com/hossainemruz/toha
-  summary: A Hugo theme for personal portfolio.
-  tags: ["hobby","hugo","theme","professional"]
