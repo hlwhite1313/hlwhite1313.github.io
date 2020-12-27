@@ -1,13 +1,13 @@
 # some information about you
-name: "John Doe"
-nickname: "John"
+name: "Heather White"
+nickname: "Heather"
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Hi, I am"
-image: "images/author/john.png"
+greeting: "Hi, I'm"
+image: "heatherProfilePhoto.jpg"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "johndoe@example.com"
-  phone: "+0123456789"
+  email: "hlwhite1313@gmail.com"
+  phone: "7204544350"
 
 # some summary about what you do
 summary:
