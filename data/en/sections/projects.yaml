@@ -22,7 +22,7 @@ buttons:
 # your projects
 projects:
 - name: Clue Game
-  logo: /images/sections/projects/kubernetes.png
+  logo: /images/sections/projects/java.png
   role: Group Member
   timeline: "August - November 2020"
   #repo: 
