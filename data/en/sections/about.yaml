@@ -27,9 +27,6 @@ summary: "I am a fourth generation student at Colorado School of Mines. I will b
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
-
-
-  socialLinks:
 - name: Linkedin
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/heather-white-82270a19b/"
