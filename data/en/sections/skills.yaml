@@ -12,31 +12,31 @@ section:
 # Give a summary of you each skill in the summary section.
 skills:
 - name: Programming Languages
-  icon: "/images/sections/skills/kubernetes.png"
+  icon: 
   summary: "I am experienced in Python, C++ and Java Programming Languages. I was a teaching assistant for a 
             Python course in Fall 2020, and have done several large projects in each of the languages listed."
-  url: "https://kubernetes.io/"
+  url: 
 
 - name: Operating System Shells
-  icon: "/images/sections/skills/cloud.png"
+  icon: 
   summary: "I have academic experience with Git Bash and Linux Shells, as well as personal experience with 
             the Windows Command Line."
 
 - name: Text Editors
-  icon: "/images/sections/skills/cloud.png"
+  icon: 
   summary: "I am experienced with CLion, Eclipse and Visual Studio Code text editors."
 
 - name: PostgreSQL Database
-  icon: "/images/sections/skills/cloud.png"
+  icon: 
   summary: "I have experience with the PostgreSQL Open Source Database, as well as general PostgreSQL query
             procol."
 
 - name: Github 
-  icon: "static/images/sections/skills/githubLogo.png"
+  icon: "/images/sections/skills/git.png"
   summary: "I have experience with Github, including personal, academic, and professional uses."
 
 - name: Microsoft Office Applications 
-  icon: "fab fa-github"
+  icon: 
   summary: "I have extensive experience in most Microsoft Office Applications, including Word, Excel and PowerPoint."
 
 
